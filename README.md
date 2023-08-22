@@ -1,2 +1,2 @@
-# grapfQl-Tutorial
-Learn the basics on graphQl
+# graphQl-Tutorial
+Learn the basics on graphQl And Apollo server
