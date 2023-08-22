@@ -1,2 +1,2 @@
 # graphQl-Tutorial
-Learn the basics with 'The Net Ninija' on graphQl And Apollo server
+Learn the basics with 'The Net Ninja' on graphQl And Apollo server
